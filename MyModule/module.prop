@@ -1,6 +1,6 @@
 
 id=SystemCleanerModule
-name=SystemFilesPurger
+name=SysPartitionRemover
 version=0.0.0
 versionCode=20241010
 author=行舟
