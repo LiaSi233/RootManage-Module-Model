@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       id:
-        description: '请输入模块id，例如Zygisk_shamiko'
+        description: 'ims_rtp_daemon'
         required: true
       
       name:
